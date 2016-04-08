@@ -1,3 +1,5 @@
 Learn who to merge in GIT
-Yeah
+Iya gitu
 Ok
+Ga gitu deh
+Masa...
