@@ -1,3 +1,4 @@
 Learn who to merge in GIT
-Yeah
+Hoho
 Ok
+Yes
