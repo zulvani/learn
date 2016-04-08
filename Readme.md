@@ -1,2 +1,2 @@
-Learn how to merge in GIT
-Test
+Learn who to merge in GIT
+Yeah
